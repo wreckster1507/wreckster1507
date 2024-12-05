@@ -7,7 +7,7 @@ Web Developer
 Passionate about the world of technology and coding.I thrive on the ever-evolving nature of technology and am committed to continuous learning.I explore Full-Stack development, where I enjoy creating seamless, end-to-end solutions. My curiosity drives me to explore new tools, languages, and frameworks. With a growth mindset, I embrace challenges and adapt to emerging trends.Let's connect and discuss how my skills and enthusiasm for technology can contribute to your projects and the broader tech community. I'm always eager to collaborate and learn from like-minded professionals in these exciting fields.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [SarthakPortfolio](http://https://sarthak1507-portfolio.vercel.app/)
+* 🖥️  See my portfolio at [SarthakPortfolio](https://sarthak1507-portfolio.vercel.app/)
 * ✉️  You can contact me at [sarthakaitha1507@gmail.com](mailto:sarthakaitha1507@gmail.com)
 * 🧠  I'm learning machine learning
 * 🤝  I'm open to collaborating on interesting projects
